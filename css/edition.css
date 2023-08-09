@@ -1,0 +1,37 @@
+@keyframes logo{
+	from{
+		
+	}
+	to{
+		top: 20%;
+	}
+}
+@keyframes container{
+	from{
+		
+	}
+	to{
+		height: 22em;
+	}
+}
+h2{
+	margin-bottom: 50px !Important; 
+}
+#logo{
+	
+	
+}
+.onload{
+	animation: container 4s forwards;
+	padding-top: 15em;
+	height: 15em;
+}
+#fondo_imagen{
+	position: absolute;
+	top: -50%;
+	left: 0%;
+	display: block !important;
+	margin: 0 auto;
+	animation: logo 5s forwards;
+	width: 100%;
+}
