@@ -19,4 +19,4 @@ WorldVert is a simple and functional online currency converter that allows users
 
 Thank you for checking out my first project!
 
-[Let's Check the Web](https://ingridar21.github.io/Vodafone_Course/)
+[Let's Check the Web](https://ingridar21.github.io/Vodafone-CodeLikeaGirl/)
